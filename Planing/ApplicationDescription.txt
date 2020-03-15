@@ -1,0 +1,35 @@
+Ovo je mesto za iznosenje ideja za aplikaciju. Ne odnosi se sve na prvi "krug" razvitka aplikacije
+
+Opsti opis:
+	- Aplikacija za rezervisanje termina za sport i rekreaciju. 
+	- Korisnici:
+		1. Korisnik koji rezervise termin
+		2. Korisnik koji nudi usluge
+		3. Moderator, Operator itd?
+		4. Admin?
+		
+Korisnik koji nudi usluge:
+	- Registracija. Korisnik unosi informacije o firmi, pored osnovnih (ime firme, adresa itd), unosi info da li ima call centar i kako zeli da resi pitanje duple baze(ponuda nekoliko resenja)
+	- Dodavanje novog terena ili sta vec izdaje (vrsta sporta, broj instanci, opis mozda neki)
+	- Pregled rezervacija u kalendaru
+	- Statistika neka (koliko je zaradio, koliko je izdao, KOLIKO TREBA DA PLATI SVE TO ;) )??
+	- Chat (Odgovara na pitanja korisnika)
+	- Chat (Da li moze da posalje poruku korisniku kom hoce? ili samo ako neko ima aktivnu rezervaciju?)
+	- Otkazi rezervaciju?? Ovde treba da stigne poruka korisniku
+	- Kacenje neke nove vesti(stize poruka pretplacenim korisnicima?)
+	- Pretraga drugih organizacija?
+		
+Korisnik koji rezervise termin:
+	- Rezervacija termina
+	- Pregled sopstvenih rezervacija
+	- Pretraga organizacija (Filteri po: imenu, vrsti sprota, trajanju termina, mozda tipa da zada vreme i da izlista samo one koji su tada slobodni)
+	- otkazivanje
+	- placanje karticom onlajn (ovo u nekoj kasnijoj iteraciji)
+	
+Moderator, operator itd:
+
+Admin:
+	
+Problemi:
+	- Odrzavanje baze ako organizacija ima call centar
+	

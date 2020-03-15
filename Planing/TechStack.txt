@@ -1,0 +1,17 @@
+Backend:
+	Language: Kotlin, Java, C#
+	Framework:
+	Security: OAuth2.0
+Frontend:
+	Language: TypeScript, JavaScript
+	Framework: Angular (ovo smo se dogovorili a)
+Database:
+	Postgres?
+	Mozda moze i MySql al msm da je ovo bolje. Mislim=cuo sam
+Deployment:
+	DigitalOcean, AWS, Hetzner, NestoDomaceMozda
+	Docker? Kubernetes? Da li ovo ima smisla uopste. Vrv ne
+
+Design patterns:
+	Security: Role ili RoleClaim model. Da li je potrebno praviti granulaciju rola po klejmovima
+		
